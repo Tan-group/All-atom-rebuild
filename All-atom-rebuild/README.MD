@@ -1,11 +1,11 @@
 # This program is used to transfer a coarse-grained (CG) structure into its corresponding all-atom structure
 
 The program is for CG structures involving three CG beads at P, C4’, and N1 atom for pyrimidine (or N9 atoms for purine).
- 
+
+```
 # Compilation and usage under linux
-```
+
 gcc -Wall rebuild.c -o rebuild -lm
-```
 # Run in the example dir
 
 ./rebuild
@@ -13,7 +13,7 @@ gcc -Wall rebuild.c -o rebuild -lm
 # Output:
    
 #  All_atom.pdb
-
+```
 # An example is:
 ```
 gcc -Wall rebuild.c -o rebuild -lm
