@@ -4,14 +4,11 @@ The program is for CG structures involving three CG beads at P, C4’, and N1 at
 
 ```
 # Compilation and usage under linux
-
 gcc -Wall rebuild.c -o rebuild -lm
 # Run in the example dir
-
 ./rebuild
 
 # Output:
-   
 #  All_atom.pdb
 ```
 # An example is:
