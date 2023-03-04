@@ -10,7 +10,7 @@ gcc -Wall rebuild.c -o rebuild -lm
 ./rebuild
 
 # Output:
-#  All_atom.pdb
+All_atom.pdb
 ```
 # An example is:
 ```
