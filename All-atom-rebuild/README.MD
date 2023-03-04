@@ -13,8 +13,7 @@ gcc -Wall rebuild.c -o rebuild -lm
 All_atom.pdb
 ```
 ```
-An example is:
-
+#An example is:
 gcc -Wall rebuild.c -o rebuild -lm
 ./rebuild
 Sequence:GGCGCAGUGGGCUAGCGCCACUCAAAGGCCCG
