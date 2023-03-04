@@ -16,9 +16,12 @@ All_atom.pdb
 #An example is:
 gcc -Wall rebuild.c -o rebuild -lm
 ./rebuild
+
 Sequence:GGCGCAGUGGGCUAGCGCCACUCAAAGGCCCG
 Secondary structure:(((((...[[[[[.))))).......]]]]].
+
 Rebuilding completed!
+
 File name: All_atom.pdb
 
 Note: the subfolder "fragment/" and compiled "rebuild" should be in the same folder.
